@@ -1,1 +1,9 @@
-# Red-Hat
+# 1. [Red-Hat](https://github.com/PalomaR88/Red-Hat/blob/master/Introduccion.md)
+## 1.1. [Red Hat. Principales hitos](https://github.com/PalomaR88/Red-Hat/blob/master/Introduccion.md#red-hat-principales-hitos)
+#### 1.1.1. [Modelo de negocio](https://github.com/PalomaR88/Red-Hat/blob/master/Introduccion.md#modelo-de-negocio)
+#### 1.1.2. [Principales adquisiciones](https://github.com/PalomaR88/Red-Hat/blob/master/Introduccion.md#principales-adquisiciones)
+#### 1.1.3. [Principales productos](https://github.com/PalomaR88/Red-Hat/blob/master/Introduccion.md#principales-productos)
+- [Fedora](https://github.com/PalomaR88/Red-Hat/blob/master/Introduccion.md#fedora)
+## 1.2. [Principales diferencias técnicas con Debian](https://github.com/PalomaR88/Red-Hat/blob/master/Introduccion.md#principales-difernecias-t%C3%A9cnicas-con-debian)
+# 2. [Práctica](https://github.com/PalomaR88/Red-Hat/blob/master/Practica.md)
+## 2.1. [Gestión de paquetes](https://github.com/PalomaR88/Red-Hat/blob/master/Practica.md#gesti%C3%B3n-de-paquetes)
